@@ -1,0 +1,16 @@
+.title {
+    font-size: 200%;
+    color: white;
+    background-color: rgb(99, 184, 187);
+    height: 800px;
+}
+
+.one {
+    font-size: 500%;
+    text-align: center;
+}
+
+.two {
+    font-size: 200%;
+    text-align: center;
+}
